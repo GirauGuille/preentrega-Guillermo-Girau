@@ -1,0 +1,23 @@
+.cardNew{
+    height: auto;
+    width: 80;
+    background-color: #006845;
+    border: 3px solid rgba(0, 0, 0, 0.321);
+    border-radius: 2rem;
+    margin: 5rem 5rem 5rem 5rem;
+    padding: 1rem 1rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lato',sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+}
+.imagenNew{
+    width: 100%;
+}
+.carousel-inner{
+    height: auto;
+    width: 90rem;
+}
